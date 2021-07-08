@@ -2465,7 +2465,7 @@ p {
       .panel-border{
           border: 1px solid cyan;
       }
-      /* .view-more-faqs-btn{
+      .view-more-faqs-btn{
           margin: auto;
           width: 40%;
           height: 50px;
@@ -2479,12 +2479,12 @@ p {
           background-color: #a3a3a3;
           z-index: 1;
           border-radius: 8px;
-      } */
-      /* .view-more-faqs-btn:hover{
+      }
+      .view-more-faqs-btn:hover{
           background-color: #858585;
-      } */
+      }
       /* critical features section */
-      /* .view-more-critical-features-btn{
+      .view-more-critical-features-btn{
           margin: auto;
           width: 40%;
           height: 50px;
@@ -2501,7 +2501,7 @@ p {
       }
       .view-more-critical-features-btn:hover{
           background-color: #858585;
-      } */
+      }
       /* Why Vyapar section */
       .qtn-btn{
           display: block;
