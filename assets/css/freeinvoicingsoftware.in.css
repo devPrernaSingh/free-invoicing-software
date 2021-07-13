@@ -1,0 +1,51 @@
+.scroll-top {
+
+    background: #E74C3C;
+}
+
+.scroll-top:hover {
+    background: #d4665a;
+}
+.bulbColor{
+    /* color: #E74C3C !important;  */
+    font-size:30px !important; 
+    padding-right:8px !important;
+}
+.grey-background{
+    background-color: rgba(239 ,239, 239,0.7);
+}
+
+.textColor {
+    color: #E74C3C !important;
+}
+.min-height-card {
+    min-height: 387px;
+}
+
+.min-height-card1 {
+    min-height: 334px;
+}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+    .min-height-card1 {
+        min-height: 390px;
+    }
+    .min-height-card {
+    min-height: 393px;
+    }
+}
+
+@media screen and (min-width:993px) and (max-width:1200) {
+    .min-height-card1 {
+        min-height: 412px;
+    }
+    .min-height-card {
+    min-height: 350px;
+    }
+}
+
+body:hover {
+
+    color: #E74C3C !important;
+
+}

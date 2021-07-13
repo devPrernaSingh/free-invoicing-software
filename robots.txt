@@ -2,5 +2,4 @@
 User-agent: *
 Disallow: /assets/
 Allow: /
-
-Sitemap: https://vbillingsoftware.com/sitemap.xml
+Sitemap: https://freeinvoicingsoftware.in/sitemap.xml
