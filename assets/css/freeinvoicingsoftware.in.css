@@ -6,6 +6,15 @@
 .scroll-top:hover {
     background: #d4665a;
 }
+.borderRadius1{
+    border-radius: 10px;
+}
+.fs1{
+    font-size: 18px;
+}
+.faqs{
+    background-color: #FAFAFA;
+}
 .bulbColor{
     /* color: #E74C3C !important;  */
     font-size:30px !important; 

@@ -2512,7 +2512,7 @@ p {
           padding: 8px 0px 8px 0px;
       }
       @media(max-width: 768px) {
-          #myModal2{
+          #offerModal{
               visibility: hidden;
           }
           .download-btn-disp {
